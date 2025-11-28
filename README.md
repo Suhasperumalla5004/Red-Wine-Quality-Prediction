@@ -16,8 +16,6 @@ End-to-end machine learning project predicting red wine quality using chemical f
 | 7.8           | 0.88           | 9.8     | 5               |
 | 7.9           | 0.6            | 10.5    | 6               |
 
-![EDA Heatmap](images/eda_plot.png)
-
 ## Technologies
 - Python
 - Pandas
