@@ -194,7 +194,11 @@ In addition to this project, a related machine learning project demonstrating si
 
 👉 https://github.com/Suhasperumalla5004/Red-Wine-Quality-Prediction
 
-This repository highlights practical implementation skills and independent project development in machine learning.
+ The project focuses on predicting wine quality using physicochemical attributes and applies machine learning techniques including data cleaning, model training, and performance evaluation.
+ 
+This repository reflects my hands-on experience in implementing end-to-end machine learning workflows and my ability to apply theoretical concepts to real-world datasets. It also demonstrates my initiative in continuously developing practical skills through self-driven projects.
+
+
 
 
 
